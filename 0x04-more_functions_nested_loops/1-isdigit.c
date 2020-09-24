@@ -1,7 +1,7 @@
 #include "holberton.h"
 
 /**
- * main - check the code for Holberton School students.
+ * _isdigit - check the code for Holberton School students.
  * @c: is number
  *
  * Return: Always 0.
