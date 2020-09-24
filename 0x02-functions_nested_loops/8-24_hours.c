@@ -2,7 +2,6 @@
 
 /**
  * jack_bauer - that computes the absolute value of an integer
- * @x: is number
  *
  * Return: Always 0.
  */
