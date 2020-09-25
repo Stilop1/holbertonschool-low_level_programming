@@ -2,6 +2,7 @@
 
 /**
  * print_diagonal - check the code for Holberton School students.
+ * @n: is the number of times the character \.
  *
  * Return: Always 0.
  */
