@@ -4,9 +4,13 @@
  * swap_int - check the code for Holberton School students.
  * @a: is number
  * @b: is number
+ * @x: is the content of a
  */
 void swap_int(int *a, int *b)
 {
-	*a = 42;
-	*b = 98;
+	int x;
+
+	x = *a;
+	*a = *b;
+	*b = x;
 }
